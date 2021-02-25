@@ -1,0 +1,26 @@
+{
+  "name": "usmanahmedmalik",
+  "version": "1.0.0",
+  "description": "Github Readme Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usmanahmedmalik/usmanahmedmalik.git"
+  },
+  "keywords": [
+    "github",
+    "readme"
+  ],
+  "author": "Usman Ahmed Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usmanahmedmalik/usmanahmedmalik/issues"
+  },
+  "homepage": "https://github.com/usmanahmedmalik/usmanahmedmalik#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
