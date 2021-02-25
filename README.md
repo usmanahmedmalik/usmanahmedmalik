@@ -9,3 +9,15 @@ Checkout my photography on [Instagram]
 <!-- links social media accounts -->
 [Twitter]: https://www.twitter.com/usmanahmedmalik/
 [Instagram]: https://www.instagram.com/usmanahmedmalik/
+
+## :toolbox: Tools & Technologies
+
+![Linux OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![PHP](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![VueJS](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![MySQL](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![Shell Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![AWS Cloud](https://img.shields.io/badge/Cloud-aws-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
