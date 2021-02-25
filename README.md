@@ -1,6 +1,7 @@
 # Hello random visitor to my profile. :wave:
 
-My name is Usman Ahmed Malik and today is Thursday, 25 February, 21:20 CET.  
+My name is Usman Ahmed Malik and today is Thursday, 25 February, 21:26 CET. 
+(Just showing off the auto generated readme.me file using Github Actions)
 
 I am a software engineer. I am originally from Lahore, Pakistan :pakistan: , born in Riyadh, Saudi Arabia :saudi_arabia: but currently living in Amsterdam, Netherlands. :netherlands:
 
@@ -24,3 +25,5 @@ Checkout my photography on [Instagram]
 ![Shell Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![AWS Cloud](https://img.shields.io/badge/Cloud-aws-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 ![VS Code](https://img.shields.io/badge/visualstudiocode-badge-blue.svg?logo=visual-studio-code&logoColor=white&color=2bbc8a)
+
+Credit for auto generated readme goes to Thomas ( https://github.com/thmsgbrt/ )
