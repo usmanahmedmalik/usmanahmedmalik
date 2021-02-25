@@ -14,4 +14,4 @@ Checkout my photography on [Instagram]
 
 <!-- https://img.shields.io/twitter/follow/usmanahmedmalik?label=Follow&style=social -->
 
-[![Instagram]] [![Twitter]]
+[![Instagram][Twitter]]
