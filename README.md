@@ -1,6 +1,6 @@
 # Hello random visitor to my profile. :wave:
 
-My name is Usman Ahmed Malik and today is Wednesday, 5 October, 03:56 CEST. 
+My name is Usman Ahmed Malik and today is Wednesday, 5 October, 10:12 CEST. 
 (Just showing off the auto generated readme.me file using Github Actions)
 
 I am a software engineer. Originally from Lahore, Pakistan :pakistan: , born in Riyadh, Saudi Arabia :saudi_arabia: but currently living in Amsterdam, Netherlands. :netherlands:
@@ -11,7 +11,7 @@ Checkout my photography on [Instagram]
 
 <!-- links social media accounts -->
 [Twitter]: https://www.twitter.com/usmanahmedmalik/
-[Instagram]: https://www.instagram.com/usmanahmedmalik/
+[Instagram]: https://www.instagram.com/uzi.in.the.wild/
 
 ## :toolbox: Tools & Technologies
 
