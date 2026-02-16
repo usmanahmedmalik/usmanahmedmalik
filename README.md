@@ -1,6 +1,6 @@
-# Hi there, I'm Usman! <img src="https://media.giphy.com/media/hvRJCLzPaklf2/giphy.gif" width="25px">
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2BBC8A&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Usman;Software+Engineer;Photographer;Global+Citizen" alt="Typing SVG" /></p>
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/usmanahmedmalik/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
@@ -9,39 +9,43 @@
   </a>
 </p>
 
-### 👨‍💻 Software Engineer | 📸 Photographer | 🌍 Global Citizen
+---
 
-> Born in **Riyadh** 🇸🇦, raised in **Lahore** 🇵🇰, and currently building things in **Amsterdam** 🇳🇱. 
+### 🌍 The Journey
+> **SaudiArabia** 🇸🇦 &nbsp;→&nbsp; **Pakistan** 🇵🇰 &nbsp;→&nbsp; **Netherlands** 🇳🇱
 
-I'm a Software Engineer who loves bridging the gap between clean code and functional design. When I'm not in the terminal, I'm usually behind a lens capturing the world.
+I'm a Software Engineer who thrives on building scalable solutions. By day, I'm deep in code; by golden hour, I'm usually capturing the world through my camera lens.
 
 ---
 
-### 🛠️ Toolbox & Technologies
+### 🛠️ Tech Stack & Tools
 
-| Category | Tools & Languages |
+| **Category** | **Tech I Use** |
 | :--- | :--- |
-| **Languages** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Frontend** | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) |
-| **Infrastructure** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| **Database/Tools** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **Backend** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Coding Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=usmanahmedmalik&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanahmedmalik&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=usmanahmedmalik&show_icons=true&theme=nord&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanahmedmalik&layout=compact&theme=nord&hide_border=true" />
 </p>
 
 ---
 
-### 📷 Beyond the Code
-Check out my latest photography work over on [Instagram](https://www.instagram.com/uzi.in.the.wild/). I focus on travel, nature, and street photography.
+### 🐍 Contribution Snake
+*(A visual representation of my coding consistency)*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
 </p>
