@@ -27,23 +27,12 @@ I'm a Software Engineer who loves bridging the gap between clean code and functi
 | **DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 
-### 🏆 My GitHub Journey
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usmanahmedmalik&theme=nord&no-frame=true&column=7&margin-w=15" alt="Trophies" />
-</p>
-
 ---
 
 ### 🔥 Coding Persona & Consistency
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanahmedmalik&theme=nord&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanahmedmalik&layout=compact&theme=nord&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=usmanahmedmalik&show_icons=true&theme=nord&rank_icon=github&hide_border=true" />
 </p>
 
 ### 📷 Beyond the Code
