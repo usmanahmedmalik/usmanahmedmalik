@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2BBC8A&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Usman;Software+Engineer;Photographer;Global+Citizen" alt="Typing SVG" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=2BBC8A&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Usman+Ahmed+Malik;Software+Engineer;Based+in+Amsterdam;Photographer" alt="Typing SVG" /></p>
 
 <p align="center">
   <a href="https://twitter.com/usmanahmedmalik/">
@@ -12,9 +12,9 @@
 ---
 
 ### 🌍 The Journey
-> **SaudiArabia** 🇸🇦 &nbsp;→&nbsp; **Pakistan** 🇵🇰 &nbsp;→&nbsp; **Netherlands** 🇳🇱
+> **Riyadh** 🇸🇦 &nbsp;→&nbsp; **Lahore** 🇵🇰 &nbsp;→&nbsp; **Amsterdam** 🇳🇱
 
-I'm a Software Engineer who thrives on building scalable solutions. By day, I'm deep in code; by golden hour, I'm usually capturing the world through my camera lens.
+I'm a Software Engineer who loves bridging the gap between clean code and functional design. When I'm not in the terminal, I'm usually behind a lens capturing the world.
 
 ---
 
@@ -36,15 +36,15 @@ I'm a Software Engineer who thrives on building scalable solutions. By day, I'm 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanahmedmalik&layout=compact&theme=nord&hide_border=true" />
 </p>
 
----
-
-### 🐍 Contribution Snake
-*(A visual representation of my coding consistency)*
+### 📈 Last Year's Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=usmanahmedmalik&theme=nord&area=true&hide_border=true&days=365" />
 </p>
 
 ---
+
+### 📷 Beyond the Code
+Check out my latest photography work over on [Instagram](https://www.instagram.com/uzi.in.the.wild/).
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
